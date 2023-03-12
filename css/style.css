@@ -145,7 +145,7 @@ main {
     flex-direction: column;
     background-color: var(--Light-Grayish-Violet);
     height: 100%;
-    width: 16rem;
+    width: 15.5rem;
     /*height: 100%;
     width: 100%;
     */
@@ -460,7 +460,7 @@ footer{
     }
 
     main{
-        height: 140vh;
+        height: 200vh;
         min-width: 270px;
     }
 
